@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./public_uploads:/app/public_uploads
+      - ./private_uploads:/app/private_uploads
+      - ./users_database.json:/app/users_database.json
+      - ./files_database.json:/app/files_database.json
+    restart: unless-stopped

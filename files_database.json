@@ -1,0 +1,36 @@
+{
+  "public": [
+    {
+      "id": 1,
+      "filename": "dadjo.pl",
+      "size": 457,
+      "uploader": "san",
+      "uploader_ip": "san",
+      "timestamp": 1775129785.3520513,
+      "datetime": "2026-04-02 12:36:25",
+      "type": "public"
+    },
+    {
+      "id": 2,
+      "filename": "dadjo.hs",
+      "size": 347,
+      "uploader": "san",
+      "uploader_ip": "san",
+      "timestamp": 1775129801.3657196,
+      "datetime": "2026-04-02 12:36:41",
+      "type": "public"
+    },
+    {
+      "id": 3,
+      "filename": "sofo.hs",
+      "size": 328,
+      "uploader": "moi",
+      "uploader_ip": "moi",
+      "timestamp": 1775130216.4447546,
+      "datetime": "2026-04-02 12:43:36",
+      "type": "public"
+    }
+  ],
+  "private": {},
+  "last_id": 3
+}

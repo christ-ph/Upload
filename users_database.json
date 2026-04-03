@@ -1,0 +1,144 @@
+{
+  "users": {
+    "moi": {
+      "password_hash": "d99a1e721f484c4d8585b6c7c44c9506b478a4c8aa22c3efe217c2a70c1c412f",
+      "salt": "8ad21031b08d12a8249dde60cce0f6ec",
+      "created_at": 1774901280.509241,
+      "created_at_str": "2026-03-30 21:08:00",
+      "last_login": 1775130100.3488684,
+      "files_count": 1,
+      "total_size": 164431,
+      "last_login_str": "2026-04-02 12:41:40"
+    },
+    "san": {
+      "password_hash": "c4b8d7a4458a7649b78685e3e4050f671abb2813bec031063bb0e565a87d0f1b",
+      "salt": "b641eb0dd7cf6dfa464688608f52b06f",
+      "created_at": 1774902609.294474,
+      "created_at_str": "2026-03-30 21:30:09",
+      "last_login": 1775130100.332767,
+      "files_count": 1,
+      "total_size": 2944,
+      "last_login_str": "2026-04-02 12:41:40"
+    },
+    "didier": {
+      "password_hash": "99cca9fc8001d1b1bd970ce63bd749fb697e9375221aadb475931deed16d71a6",
+      "salt": "a5d5c10f2b5a67360abc82f3cda4206a",
+      "created_at": 1774958272.777796,
+      "created_at_str": "2026-03-31 12:57:52",
+      "last_login": 1775130248.840932,
+      "files_count": 0,
+      "total_size": 0,
+      "last_login_str": "2026-04-02 12:44:08"
+    },
+    "naga": {
+      "password_hash": "c0b2c4e9becb67314fbd21a12dbd7cacc6100f6c79fe8a905a992bf7d0b3153d",
+      "salt": "edf64e647e9820ded6a21778040c4e45",
+      "created_at": 1774959166.7864797,
+      "created_at_str": "2026-03-31 13:12:46",
+      "last_login": 1774960066.864734,
+      "files_count": 0,
+      "total_size": 0,
+      "last_login_str": "2026-03-31 13:27:46"
+    },
+    "Set": {
+      "password_hash": "b839e16292b0169c9f76d56e22b168b40a75e8cc4071c4d608ff23fc70322dd7",
+      "salt": "4b99bab587d1014456e4b8202d82d842",
+      "created_at": 1775062517.5534625,
+      "created_at_str": "2026-04-01 17:55:17",
+      "last_login": 1775064308.130161,
+      "files_count": 2,
+      "total_size": 69951,
+      "last_login_str": "2026-04-01 18:25:08"
+    }
+  },
+  "sessions": {
+    "JmDh8oywXCAv6MmrhQ9RBSlK3gvY_OIroSygPwRzx_w": {
+      "username": "moi",
+      "expires": 1774904892.9968095
+    },
+    "RXGC2omsbZruisK6-ZNE_ijPBqpq_HoAO4xgMJ1vflo": {
+      "username": "moi",
+      "expires": 1774906162.1135194
+    },
+    "ACb4RWRA7hLtO7hg6bHld1tlTnKKsrootDiHXGB8KDQ": {
+      "username": "san",
+      "expires": 1774906223.5596168
+    },
+    "RmecI0PCdST3RUg6QXEOgaQb6_kB_PZ7Oxn_xRQBAPo": {
+      "username": "moi",
+      "expires": 1774906257.2424443
+    },
+    "0jNM5BoJZHLTCkFP_2DveZ5gt7JnKnKBHfkbEWtRpto": {
+      "username": "didier",
+      "expires": 1774961879.172708
+    },
+    "v-8EqFkfcGMyMBJMZMgrXxcAcrdbUxs-y-5V8AQHQwc": {
+      "username": "san",
+      "expires": 1774961971.6746082
+    },
+    "mb8FpAwDP2fhmP6ZLwAamH_PWMv4s348w4b6HEQ0bus": {
+      "username": "naga",
+      "expires": 1774962779.387756
+    },
+    "XVgZw3Q38ViG9wnE4EPoMAFAZFB8PImOyMRwVlrOq78": {
+      "username": "san",
+      "expires": 1774963344.8627958
+    },
+    "noHrmc8tFEPjj0EQOlRawiUgYBNzeaKkAylvo4Z_3Dc": {
+      "username": "naga",
+      "expires": 1774963666.8656375
+    },
+    "KrOJT9ulz1nflFDGw9k9ps5-7xWj3IZxx0DKbqY6uZY": {
+      "username": "Set",
+      "expires": 1775066124.1133318
+    },
+    "EvQLS0nYnvSGy489agnbRmU65Tgdx2x7jnX1YSD8luE": {
+      "username": "san",
+      "expires": 1775066418.0557716
+    },
+    "Rr_LzEgbg0tjpd1fOKL67WQN87mKpH76NIYOWoKyAes": {
+      "username": "Set",
+      "expires": 1775067179.6329293
+    },
+    "ar-Edt5xJeewy4IrTVatO9IAT-KiclepnK8CGW3yVUU": {
+      "username": "Set",
+      "expires": 1775067347.9907758
+    },
+    "zbznThHnQZFzF1GQcvFUl025aMCwFR9d_9NCTvBAgXw": {
+      "username": "Set",
+      "expires": 1775067596.115814
+    },
+    "HhiECwEnflqOti63XX6RPIR0NL2nSV1C5OAAlmoWKhg": {
+      "username": "Set",
+      "expires": 1775067908.1314847
+    },
+    "z-QX8f69XDJKcxr6uMCeDnOx2nbYHn77FsSkSW7belI": {
+      "username": "moi",
+      "expires": 1775068347.9909298
+    },
+    "AJn2iNu7RiU7c_I-mHizu9vfx13ul21qFqTwxBopohg": {
+      "username": "moi",
+      "expires": 1775075270.4415548
+    },
+    "ne9KWvKbsn8I26moXmG6MLUANwLKLeWD6aormkv0a5c": {
+      "username": "moi",
+      "expires": 1775075325.0194697
+    },
+    "vjXsr9OCi2clcLTv2ngTeEmoONvIDa6_UomaT1LiPMQ": {
+      "username": "san",
+      "expires": 1775133262.096224
+    },
+    "EazCFzPzU_EMKHwb_YXMLrjh86rgVpt8EtDhkYPZf0o": {
+      "username": "san",
+      "expires": 1775133700.3343892
+    },
+    "P3zowp4SUOoPYYmxN4b6M9tz6BRGsSOOTEochrPhYu8": {
+      "username": "moi",
+      "expires": 1775133700.3512561
+    },
+    "kKdgR0vpWhQfaaw_muKNdQQyhK_R9qhc87gr810MvLo": {
+      "username": "didier",
+      "expires": 1775133848.8425183
+    }
+  }
+}
